@@ -6,8 +6,8 @@ void FindMedian(int arr[], int length);
 
 int main()
 {
-    int arr[5] = {7, 3, 5, 2};
-    FindMedian(arr, 5);
+    int arr[4] = {7, 3, 5, 2};
+    FindMedian(arr, 4);
     return 0;
 }
 
